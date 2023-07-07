@@ -1,0 +1,26 @@
+/* #main-container{
+    height: 10em;
+}
+
+#frist{
+    height: 10em;
+}
+#second{
+    height: 10em;
+} */
+
+#box1, #box2{
+    height: 30em;
+}
+
+#box3, #box4{
+    height: 20em;
+}
+
+#box5, #box6{
+    height: 20em;
+}
+
+#box7, #box8{
+    height: 20em;
+}
